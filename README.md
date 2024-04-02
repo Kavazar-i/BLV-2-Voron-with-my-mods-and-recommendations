@@ -1,2 +1,4 @@
 # BLV-2-Voron-with-my-mods-and-recommendations
-This repo is inspired by the excellent work of the person: https://github.com/hammered-github on the project to turn the BLV MGN Cube into the Voron Trident: https://github.com/hammered-github/B2V.git. The goal of my project is to write everything in English and in my interpretation.
+This repo is inspired by the excellent work of the person: https://github.com/hammered-github on the project to turn the BLV MGN Cube into the Voron Trident: The goal of my project is to write everything in English and in my interpretation.
+
+The structure of the folders will be similar to the Voron Trident repository with README.md file in each folder, which will contain links to remakes found on different sites, as well as their files, so that inaccessible details would not appear. I will mark original voron models, remakes, their binding, etc. with letter additions in the file names between ().
